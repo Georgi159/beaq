@@ -1,0 +1,262 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/tar.o",
+            "classes/tar.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/tar.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/target.o",
+            "classes/target.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/target.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/xz.o",
+            "classes/xz.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/xz.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/mBeaq.o",
+            "mBeaq.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "mBeaq.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/count.o",
+            "classes/count.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/count.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/timeUpdate.o",
+            "classes/timeUpdate.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/timeUpdate.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/ParserLogic.o",
+            "classes/ParserLogic.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/ParserLogic.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/FileName.o",
+            "classes/FileName.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/FileName.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/OptionParser.o",
+            "classes/OptionParser.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/OptionParser.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/rsync.o",
+            "classes/rsync.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/rsync.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/gzip.o",
+            "classes/gzip.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/gzip.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/autoUpdate.o",
+            "classes/autoUpdate.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/autoUpdate.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wextra",
+            "-Wall",
+            "-fstack-protector-all",
+            "-g",
+            "-O2",
+            "-fno-exceptions",
+            "-Iclasses/",
+            "-I./",
+            "-o",
+            "obj/help.o",
+            "classes/help.cpp"
+        ],
+        "directory": "/home/georgi/projects/backup_util",
+        "file": "classes/help.cpp"
+    }
+]
